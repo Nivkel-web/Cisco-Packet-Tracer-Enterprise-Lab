@@ -1,0 +1,6 @@
+{
+  "name": "Cisco Packet Tracer Enterprise Lab: Cyber Simulator",
+  "description": "Interactive Cisco Enterprise network simulator featuring 802.1Q Router-on-a-Stick inter-VLAN routing, dynamic OSPF routing with redundant serial link failover, port ACL firewalls, Cisco IOS CLI, and sci-fi packet telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
